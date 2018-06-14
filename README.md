@@ -1,1 +1,1 @@
-# business-db
+# django-beginner-tutorial
